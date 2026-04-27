@@ -1,4 +1,3 @@
-
 // Full question bank generated from vt250jaj.md.
 const questions = [
   {
